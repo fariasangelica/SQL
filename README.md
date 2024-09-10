@@ -1,6 +1,6 @@
 # SQL
 
-O repositório se trata de alguns isights do livro 'SQL Guia Prático'. É um estudo intensivo e com exercícios muito bem elaborados.
+O repositório se trata de alguns insights do livro 'SQL Guia Prático'. É um estudo intensivo e com exercícios muito bem elaborados.
 
 ## CAPÍTULO 1
 
