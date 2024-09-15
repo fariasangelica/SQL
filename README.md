@@ -5,7 +5,7 @@ O repositório se trata de alguns insights do livro 'SQL Guia Prático'. É um e
 ## CAPÍTULO 1
 
 ### O que é um banco de dados?
-> - Banco de dados é um local para armazenamento de dados de maneira organziada.
+> - Banco de dados é um local para armazenamento de dados de maneira organizada.
 > - Há duas categorias: SQL e NoSQL.
 >   
 > SQL
